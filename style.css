@@ -85,9 +85,26 @@ li {
     flex-direction: column;
     
 }
+.text-font {
+    font-size: 36px;
+    color: #1F2937;
+    margin: 50px;
+}
+.boxes { 
+    display: flex;
+    align-items: center;
+    
+}
+.space-in {
+    margin: 10px;
+    border: #3882F6;
+}
+
+
 footer { 
     background: #1F2937;
     color: white;
     text-align: center;
+
 
 }
