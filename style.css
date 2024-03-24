@@ -5,3 +5,63 @@
 body {
  font-family: roboto;
 }
+header { 
+    background: #1F2937;
+    color: white;
+     display: block;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px ;
+}
+.links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    text-decoration: none;
+}
+li {
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(232, 225, 225);
+    
+}
+.more {
+    display: flex;    
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+
+}
+.word-box {
+    display: block;
+    text-decoration: none;
+    width: 400px;
+    padding: 10px;
+    margin: 20px ;
+}
+.lorem {
+    
+    font-size: 48px;
+}
+
+footer { 
+    background: #1F2937;
+    color: white;
+    text-align: center;
+
+}
